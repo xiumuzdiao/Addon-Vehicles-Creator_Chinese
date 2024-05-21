@@ -1,4 +1,6 @@
 # Addon Vehicles Creator 中文汉化版
+效果图：
+
 ![汉化效果图](https://github.com/xiumuzdiao/Addon-Vehicles-Creator_Chinese/blob/main/picture/20240521_174835.png)
 
 ## 关于
