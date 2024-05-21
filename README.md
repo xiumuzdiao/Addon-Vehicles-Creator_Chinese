@@ -1,4 +1,5 @@
 # Addon Vehicles Creator 中文汉化版
+![汉化效果图](https://github.com/xiumuzdiao/Addon-Vehicles-Creator_Chinese/blob/main/picture/20240521_174835.png)
 
 ## 关于
 该程序会在 dlc 包中生成自动填充..因此无需再进行设置！
