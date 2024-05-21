@@ -3,6 +3,8 @@
 ## 关于
 该程序会在 dlc 包中生成自动填充..因此无需再进行设置！
 
+英文源文件：https://www.gta5-mods.com/tools/addon-creator-vehicles-v1-0-7ddf2ca5-ffdf-45e3-93f5-fd8fe36f3de5
+
 ## 教程
 1. 在 Dlc Name Texbox 中输入您想要的 dlc 包名称...
 2. 选择dlc包类型车辆
