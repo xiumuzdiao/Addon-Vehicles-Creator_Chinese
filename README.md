@@ -4,7 +4,7 @@
 ![汉化效果图](https://github.com/xiumuzdiao/Addon-Vehicles-Creator_Chinese/blob/main/picture/20240521_174835.png)
 
 ## 快捷下载地址
-[点此下载](https://github.com/xiumuzdiao/Addon-Vehicles-Creator_Chinese/releases/tag/1.5.0)
+[点此下载](https://github.com/xiumuzdiao/Addon-Vehicles-Creator_Chinese/releases)
 
 ## 关于
 该程序会在 dlc 包中生成自动填充..因此无需再进行设置！
